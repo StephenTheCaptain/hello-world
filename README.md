@@ -1,3 +1,2 @@
 # hello-world
-just a  hello world test
-now what
+Hello world. Hello my friend.
